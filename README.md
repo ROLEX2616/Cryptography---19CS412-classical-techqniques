@@ -1,6 +1,5 @@
-# DATE:
-
-# EX:2- Cryptography---19CS412-classical-techqniques
+## DATE:
+# EX:3- Cryptography---19CS412-classical-techqniques
 
 
 # Caeser Cipher
