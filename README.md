@@ -1,5 +1,5 @@
 ## DATE:
-# EX:8- Cryptography---19CS412-classical-techqniques
+# EX:3- Cryptography---19CS412-classical-techqniques
 # Caeser Cipher
 Caeser Cipher using with different key values
 
