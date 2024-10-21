@@ -86,14 +86,14 @@ int main() {
 ## OUTPUT:
 Simulating Caesar Cipher
 
-![image](https://github.com/user-attachments/assets/c3658916-ee2f-4656-a88c-98c12a0e92fb)
+![Screenshot 2024-10-21 082900](https://github.com/user-attachments/assets/29f9e138-d620-45cf-995c-dacb595dc2c8)
+Enter the message to encrypt: kavin
+Enter the Caesar Cipher key (an integer): 13
+Encrypted Message: xniva
+
+Decrypted Message: kavin
 
 
-Input : HARINI
-
-Encrypted Message : KDULQL
-
-Decrypted Message : HARINI
 
 ## RESULT:
 The program for caesar cipher method is executed successfully
@@ -344,16 +344,15 @@ int main() {
 
 Simulating Playfair Cipher
 
-![image](https://github.com/user-attachments/assets/70a0691e-2cae-46a7-89fc-cafab608efad)
+![image](https://github.com/user-attachments/assets/64520d37-8d37-4a08-8e89-02ba2ffbb408)
 
 
 
-Key text: harin
 
+Simulating Playfair Cipher
+Key text: kavin
 Plain text: saveetha
-
-Cipher text: qrybmyar
-
+Cipher text: qiidfsqc
 Decrypted text: saveetha
 
 ## RESULT:
@@ -492,17 +491,15 @@ int main() {
 
 ## OUTPUT:
 Simulating Hill Cipher
+![Screenshot 2024-10-21 083438](https://github.com/user-attachments/assets/1f9fc5e9-6c81-4d8d-aa41-de716794802d)
 
-![image](https://github.com/user-attachments/assets/b414e9d8-c416-47dc-8cef-1a90dba85917)
 
 
-Input Message : HARINI
-
-Padded Message : HARINI
-
-Encrypted Message : PWYYTQ
-
-Decrypted Message : HARINI
+Simulation of Hill Cipher
+Input message: kavin
+Padded message: KAVINX
+Encoded message: AKFCXF
+Decoded message: KAVINX
 ## RESULT:
 The program for hill cipher method is executed successfully
 
@@ -593,14 +590,14 @@ int main() {
 
 Simulating Vigenere Cipher
 
-![image](https://github.com/user-attachments/assets/3e5deae2-d40a-405b-9bd1-4d1c1dff1c0c)
+![Screenshot 2024-10-21 083608](https://github.com/user-attachments/assets/1ef891ef-170f-4251-930d-2dccb63ef7cd)
+
+Simulating Vignere cipher
+Encrypted Message: IGWSXJNB XDMJBXUXJBZ IPZEUMF
+Decrypted Message: 9A<EE:HA E4G/4EER/4G C5L2EG+
 
 
-Input Message : SAVEETHA ENGINEERING COLLEGE
 
-Encrypted Message : ZAMMRBOA MAOPNVMEQUG KBTSEXM
-
-Decrypted Message : SAVEETHA ENGINEERING COLLEGE
 ## RESULT:
 The program for vignere cipher method is executed successfully
 
@@ -765,16 +762,15 @@ int main() {
 
 Simulating Rail Fence Cipher
 
-![image](https://github.com/user-attachments/assets/08254bf2-9872-4cac-9930-82c5adff1cae)
+![Screenshot 2024-10-21 083727](https://github.com/user-attachments/assets/10784ff6-4476-4daf-8fd8-454701e22f82)
 
 
-Enter a Secret Message: HARINI
+Simulating Rail Fence Cipher
+Enter a Secret Message: kavin
+Enter number of rails: 14
+Encrypted Message: kavin
+Decrypted Message: kavin
 
-Enter number of rails: 3
-
-Encrypted message: HNAIIR
-
-Decrypted message: HARINI
 
 ## RESULT:
 The program for rail fence cipher method is executed successfully
