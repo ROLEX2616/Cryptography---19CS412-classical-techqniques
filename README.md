@@ -593,12 +593,12 @@ int main() {
 
 
 Simulating Vigenere Cipher
+![Screenshot 2024-10-21 084516](https://github.com/user-attachments/assets/4a593d05-52e7-4e13-b945-ec7e74da2919)
 
-![Screenshot 2024-10-21 083608](https://github.com/user-attachments/assets/1ef891ef-170f-4251-930d-2dccb63ef7cd)
 ```
 Simulating Vignere cipher
-Encrypted Message: IGWSXJNB XDMJBXUXJBZ IPZEUMF
-Decrypted Message: 9A<EE:HA E4G/4EER/4G C5L2EG+
+Encrypted Message: CAQMRDHV RXGDVRORDVT CJTYOGZ
+Decrypted Message: SAVEETHA ENGINEERING COLLEGE
 ```
 
 
