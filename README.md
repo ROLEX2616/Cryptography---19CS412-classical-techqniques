@@ -87,11 +87,13 @@ int main() {
 Simulating Caesar Cipher
 
 ![Screenshot 2024-10-21 082900](https://github.com/user-attachments/assets/29f9e138-d620-45cf-995c-dacb595dc2c8)
+
+```
 Enter the message to encrypt: kavin
 Enter the Caesar Cipher key (an integer): 13
 Encrypted Message: xniva
-
 Decrypted Message: kavin
+```
 
 
 
@@ -348,12 +350,13 @@ Simulating Playfair Cipher
 
 
 
-
+```
 Simulating Playfair Cipher
 Key text: kavin
 Plain text: saveetha
 Cipher text: qiidfsqc
 Decrypted text: saveetha
+```
 
 ## RESULT:
 The program for playfair cipher method is executed successfully
@@ -494,12 +497,13 @@ Simulating Hill Cipher
 ![Screenshot 2024-10-21 083438](https://github.com/user-attachments/assets/1f9fc5e9-6c81-4d8d-aa41-de716794802d)
 
 
-
+```
 Simulation of Hill Cipher
 Input message: kavin
 Padded message: KAVINX
 Encoded message: AKFCXF
 Decoded message: KAVINX
+```
 ## RESULT:
 The program for hill cipher method is executed successfully
 
@@ -591,10 +595,11 @@ int main() {
 Simulating Vigenere Cipher
 
 ![Screenshot 2024-10-21 083608](https://github.com/user-attachments/assets/1ef891ef-170f-4251-930d-2dccb63ef7cd)
-
+```
 Simulating Vignere cipher
 Encrypted Message: IGWSXJNB XDMJBXUXJBZ IPZEUMF
 Decrypted Message: 9A<EE:HA E4G/4EER/4G C5L2EG+
+```
 
 
 
@@ -764,12 +769,13 @@ Simulating Rail Fence Cipher
 
 ![Screenshot 2024-10-21 083727](https://github.com/user-attachments/assets/10784ff6-4476-4daf-8fd8-454701e22f82)
 
-
+```
 Simulating Rail Fence Cipher
 Enter a Secret Message: kavin
 Enter number of rails: 14
 Encrypted Message: kavin
 Decrypted Message: kavin
+```
 
 
 ## RESULT:
